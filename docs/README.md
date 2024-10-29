@@ -1,6 +1,5 @@
-#Meme of the day
-Me: if x^2 = 9 , then x is 3
-My math teacher: 0_0
+##Meme is gone 
+
 # Math formulas
 ## Area
 #- Circle: S = πR²
